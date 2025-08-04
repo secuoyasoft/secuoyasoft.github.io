@@ -1,1 +1,0 @@
-# secuoyasoft.github.io

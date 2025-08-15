@@ -43557,7 +43557,7 @@ A.aiy.prototype={
 $1(a){return a.dx===this.a.d},
 $S:120}
 A.aiA.prototype={
-$0(){return A.aEr(this.a,"La Paz Bolivia","arielcho30@gmail.com","Secuoya Soft","69825188")},
+$0(){return A.aEr(this.a,"La Paz Bolivia","secuoyasoft@gmail.com","Secuoya Soft","69825188")},
 $S:0}
 A.aiB.prototype={
 $1(a){var s=this.a
